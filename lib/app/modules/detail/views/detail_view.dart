@@ -58,7 +58,7 @@ class DetailView extends GetView<DetailController> {
                                 crossAxisAlignment: CrossAxisAlignment.start,
                                 children: const [
                                   Text(
-                                    'Detail Agent',
+                                    'Detail Agents',
                                     style: TextStyle(
                                         height: 1.5,
                                         fontSize: 25,
